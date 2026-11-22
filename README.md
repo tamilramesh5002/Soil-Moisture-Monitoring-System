@@ -58,7 +58,3 @@ Tamil R
 Electronics and Communication Engineering
 
 Project Domain: Embedded Systems and IoT
-
-Electronics and Communication Engineering
-
-**Project Domain:** Embedded Systems and IoT
